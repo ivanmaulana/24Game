@@ -53,7 +53,7 @@
 
 ## Explaination
 
-### If there's the answers
+### If there're the answers
 Input 	: `2 3 4 5`
 
 output 	:
