@@ -1,6 +1,6 @@
 // @author   : Ivan Maulana Putra - Punto Nugroho
 // @nim      : G64130076 - G64130052
-// @project  : The 24 Game. How you find the way to get result = 24.
+// @project  : The 24 Game. How to find the way to get result = 24.
 
 #include <iostream>
 
